@@ -14,9 +14,11 @@ Of all the unanswered questions: How did the life begin? Why do we dream? -  per
 
 Well, this is one question we can solve with data science.
 
-If anyone has an answer to the above questions, I would love to hear from you. Connect with me on Linkedin : [linkedin.com/in/muskan-gulati 
-](linkedin.com/in/muskan-gulati)
-
+If anyone has an answer to the above questions, I would love to hear from you. Connect with me on Linkedin :
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/muskan-gulati"
 
 ## Motivation
 The motivation for doing this project was primarily an interest in undertaking a challenging project in an interesting area of research.
