@@ -14,7 +14,7 @@ Of all the unanswered questions: How did the life begin? Why do we dream? -  per
 
 Well, this is one question we can solve with data science.
 
-In return, if anyone has an answer to the above questions, I would love to hear from you.
+If anyone has an answer to the above questions, I would love to hear from you. Connect with me on Linkedin :[LinkedIn](linkedin.com/in/muskan-gulati)
 
 
 ## Motivation
