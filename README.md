@@ -10,7 +10,7 @@
  
 
 ## Overview
-Of all the unanswered questions: How did the life begin? Why do we dream? -  perhaps the greatest is this: flight prices. Buy a ticket one day at some price; buy that same ticket a few days later, it will be a whole different story. Finding the most favorable timing for airline ticket purchasing from the customer's perspective is challenging because buyers have insufficient information for reasoning about future price movements.
+Of all the unanswered questions: How did the life begin? Why do we dream? what dress to wear today? :stuck_out_tongue: -  perhaps the greatest is this: flight prices. Buy a ticket one day at some price; buy that same ticket a few days later, it will be a whole different story. Finding the most favorable timing for airline ticket purchasing from the customer's perspective is challenging because buyers have insufficient information for reasoning about future price movements.
 
 Well, this is one question we can solve with data science.
 
